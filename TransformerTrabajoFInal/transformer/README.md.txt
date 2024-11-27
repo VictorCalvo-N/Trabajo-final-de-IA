@@ -1,0 +1,3 @@
+Primero se va a correr el programa "app.py", esto manda un localhost, luego lo abrimos y este nos muestra como una pagina web para luego poder hacer click en la parte superior donde dice "seleccionar imagen o soltar aquí", al colocar la imagen y luego en el botón "Procesar imagen". Se va a visualizar a la parte izquierda la imagen con ruido y después de la acción del botón pone la imagen con poco o sin ruido.
+**Nota:
+Las imágenes de ejemplo que se puede tomar están en la carpeta Images.
